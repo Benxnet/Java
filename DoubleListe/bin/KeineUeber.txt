@@ -1,0 +1,3 @@
+wednesday;Mittwoch
+thursday;
+friday;Freitag

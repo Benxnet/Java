@@ -1,0 +1,3 @@
+monday;Montag
+tuesday;Dienstag;
+a;a
